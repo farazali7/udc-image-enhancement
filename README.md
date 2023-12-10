@@ -5,7 +5,7 @@
 Under Display Cameras (UDC) are an emerging technology particularly developed for smartphones where the camera is embedded
 under the display so that the screen covers the entire surface. However, placing the camera inside the screen introduces degradations such as noise, flare, haze and low light. In this work, we solve this ill-posed inverse problem and restore the UDC image, through approaches of cross-model knowledge distillation and denoising diffusion probabilistic models. Distillation allows us to develop an efficient solution which is deployable, meanwhile, the use of diffusion models previously unexplored on UDC gives some interesting results, beating the state-of-the-art PSNR value.
 
-[![](https://img.shields.io/badge/POSTER-37a779?style=for-the-badge)](./CSC2529_Project_Poster_Umar_Faraz.pdf)$~~$
+[![](https://img.shields.io/badge/POSTER-37a779?style=for-the-badge)](./CSC2529_Project_Poster_Umar_Faraz.pdf)
 [![](https://img.shields.io/badge/REPORT-37a779?style=for-the-badge)](./CSC2529H_Final_Project_Report_2023.pdf)
 
 ## Results

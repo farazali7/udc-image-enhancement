@@ -1,0 +1,7 @@
+einops==0.7.0
+numpy==1.26.2
+scikit-image==0.22.0
+torch==2.1.1
+torchvision==0.16.1
+tqdm==4.66.1
+deepinv==0.1.0.dev0
